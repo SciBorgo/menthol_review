@@ -11,3 +11,6 @@
 
 ## Replicate the analysis
 The meta-analysis can be replicated using the R packages `readxl`, `tidyverse`, `janitor`, `naniar`, `meta`, `metafor`, `dmetar`, `gt`, and `pwr` and the data files saved in the folder "data".
+
+## DOI
+[![DOI](https://zenodo.org/badge/996738333.svg)](https://doi.org/10.5281/zenodo.15600910)
