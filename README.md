@@ -9,5 +9,5 @@
 
 **Conclusion:** L-menthol ingestion has the potential to be a low-risk ergogenic strategy that could produce small performance benefits. However, available evidence from six studies with at least some risk of bias concerns does not support its use, and detrimental effects on performance and perception cannot be ruled out. Future research should address methodological limitations including appropriate blinding and control conditions, standardised L-menthol concentrations, and a more diverse athletic samples to establish whether L-menthol ingestion has meaningful ergogenic potential.  
 
-## Replciate the analysis
+## Replicate the analysis
 The meta-analysis can be replicated using the R packages `readxl`, `tidyverse`, `janitor`, `naniar`, `meta`, `metafor`, `dmetar`, and `gt`, and the data files saved in the folder "data".
