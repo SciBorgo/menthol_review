@@ -1,0 +1,6 @@
+Covidence #,Study ID,int_x,int_sd,con_x,con_sd,int_n,con_n,outcome
+439,Neto 2023,5.6,1.1,5.6,1.9,14,14,sensation
+119,Riera 2014,3.7,0.3,3.5,0.5,12,12,sensation
+14,Podlogar 2022,3.2,0.8,2.9,1,10,10,sensation
+7,Bray 2024,3.7,0.5,3.6,0.5,10,10,sensation
+2,Vogel 2023,11.28571429,0.994490316,11.35714286,1.008208072,14,14,sensation

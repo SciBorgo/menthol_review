@@ -1,0 +1,7 @@
+Covidence #,Study ID,int_x,int_sd,con_x,con_sd,int_n,con_n,outcome,rob
+439,Neto 2023,109.9,25.8,98.5,23.2,14,14,tte,some
+119,Riera 2014,2130,246,2250,288,12,12,time_trial,high
+14,Podlogar 2022,541,177,566,150,10,10,tte,some
+7,Bray 2024,151,37,153,39,10,10,work,some
+2,Vogel 2023,4.22,0.54,4.22,0.55,14,14,distance,some
+,Tsutsumi 2022,1683.9,520.3,1410.2,465.9,13,13,tte,high
